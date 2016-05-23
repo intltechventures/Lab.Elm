@@ -1,9 +1,17 @@
 # Lab.Elm
 A repository that serves as my lab for exploring the Elm functiional programming language
 
-References
+Elm References
 * http://elm-lang.org
 
 
-Articles
+Interesting Elm Related Github Resources
+* https://github.com/yupferris/elmsteroids
+
+
+Elm Related Articles
 * http://elm-lang.org/blog/farewell-to-frp
+
+
+Elm News Sources
+* https://twitter.com/elmlang
