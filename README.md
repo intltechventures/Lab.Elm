@@ -7,6 +7,7 @@ Elm References
 
 Interesting Elm Related Github Resources
 * https://github.com/yupferris/elmsteroids
+* https://github.com/marick/eecrit
 
 
 Elm Related Articles
